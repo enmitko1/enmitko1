@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>Welcome to my page! </br> I'm Dimitar, Oracle DBA from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png" width="13"/> <b>Gandia, Spain</b>, originally from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/bg.png" width="13"/> <b>Haskovo, Bulgaria</b>. </p>
+<h4>My main projects are made using:</h4>
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/> Linux shell </br>
+  Ansible
+  SQL
+</p>
 <!--
 **enmitko1/enmitko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
