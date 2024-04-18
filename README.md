@@ -3,10 +3,13 @@
 <p>Welcome to my page! </br> I'm Dimitar, Oracle DBA from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/es.png" width="13"/> <b>Gandia, Spain</b>, originally from <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/bg.png" width="13"/> <b>Haskovo, Bulgaria</b>. </p>
 <h4>My main projects are made using:</h4>
 <p>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40"/> Linux shell </br>
-  Ansible
-  SQL
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width="150"/></br>
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" width="110"/></br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" width="95"/></br>
+  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="80"/></br>
 </p>
+
+
 <!--
 **enmitko1/enmitko1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
